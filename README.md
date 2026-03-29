@@ -52,7 +52,7 @@
 * 🌍 **Site Web :** [clipnestdev.tech](https://clipnestdev.tech)
 * 📺 **YouTube :** [clipnestDev(https://bit.ly/clipnestDev]
 * 💬 **Discord / WhatsApp :** [clipnestDev community (https://discord.gg/9AfP9Xwr)]
-* 📺 **Tiktok : ** [clipnestDev(https://www.tiktok.com/@clipnestdev)]
+* 📺 **Tiktok :** [clipnestDev(https://www.tiktok.com/@clipnestdev)]
 
 ---
 
