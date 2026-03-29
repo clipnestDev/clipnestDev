@@ -1,16 +1,53 @@
-## Hi there 👋
+# <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXF6NjB4ZzR4ZzR4ZzR4ZzR4ZzR4ZzR4ZzR4ZzR4ZzR4ZzR4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/M9gbBd9nbJCZ5dzqn6/giphy.gif" width="30px"> Bienvenue chez ClipNestDev
 
-<!--
-**clipnestDev/clipnestDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=L'Équipe+ClipNestDev;Apprendre+le+Code+en+2026;UI%2FUX+Design+%26+Web+Dev;Fullstack+Modern+Apps" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 À propos de nous
+**ClipNestDev** est un collectif de passionnés dédié à la création de solutions web modernes et à l'éducation tech. Nous transformons des concepts complexes en tutoriels simples et en projets concrets.
+
+* 🎥 **YouTube :** Nous partageons nos astuces [HTML/CSS/JS] en format Short et Long.
+* 💻 **Focus :** Performance, Design "Glassmorphism" et Expérience Utilisateur (UX).
+* 🛠 **Projets :** Du Dashboard scolaire aux outils de design interactifs.
+
+---
+
+### 🛠️ Notre Stack Technologique
+<p align="left">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</p>
+
+---
+
+### 📈 Nos Ressources YouTube
+| Projet | Techno | Vidéo |
+| :--- | :--- | :--- |
+| **Générateur de Couleurs** | JS Pur | [Regarder 📺](#) |
+| **Dashboard Scolaire** | React / Tailwind | [Regarder 📺](#) |
+| **Effet Glassmorphism** | CSS / JS | [Regarder 📺](#) |
+
+---
+
+### 📫 Nous contacter / Nous suivre
+* 🌍 **Site Web :** [clipnestdev.tech](https://clipnestdev.tech)
+* 📺 **YouTube :** [Ton Lien YouTube ici]
+* 💬 **Discord / WhatsApp :** [Ton Lien de communauté]
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=clipnestDev&show_icons=true&theme=radical" alt="Stats de ClipNestDev" />
+</p>
+
+<p align="center">
+  <b>⭐ "Coder, c'est l'art de transformer l'imaginaire en binaire."</b>
+</p>
