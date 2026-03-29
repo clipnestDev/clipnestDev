@@ -44,7 +44,7 @@
 ### 📈 Nos Ressources YouTube
 | Projet | Techno | Vidéo |
 | :--- | :--- | :--- |
-| **Générateur de Couleurs** | JS Pur | [Regarder 📺](#) |
+| **Générateur de Couleurs** | JS Pur | [Regarder 📺](https://github.com/clipnestDev/generateur-de-couleur) |
 
 ---
 
