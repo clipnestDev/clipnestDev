@@ -7,7 +7,32 @@
 ---
 
 ### 🚀 À propos de nous
-**ClipNestDev** est un collectif de passionnés dédié à la création de solutions web modernes et à l'éducation tech. Nous transformons des concepts complexes en tutoriels simples et en projets concrets.
+**📖 Biographie : ClipNestDev
+L'Accroche :
+
+"Où le Design rencontre la Performance. Nous ne nous contentons pas de coder, nous concevons l'avenir du Web, une ligne à la fois."
+
+✨ Qui sommes-nous ?
+ClipNestDev est un collectif dynamique de développeurs et designers passionnés par l'écosystème web moderne. Spécialisés dans le développement Fullstack et l'UI/UX Design, notre mission est double :
+
+Créer des solutions numériques robustes et esthétiques (Dashboards, SaaS, Applications Web).
+
+Transmettre notre savoir à travers des tutoriels interactifs et des démonstrations de code innovantes sur YouTube.
+
+🎯 Notre Vision 2026
+Dans un monde où l'IA et le Web progressent à une vitesse fulgurante, nous croyons en un code propre, accessible et visuellement captivant. Que ce soit via un Short de 60 secondes ou une architecture complexe sous React et Prisma, l'excellence utilisateur reste notre priorité absolue.
+
+🛠️ Ce que nous faisons
+Design & Prototypage : Conception d'interfaces haute fidélité sur Figma et Canva.
+
+Frontend Magic : Interfaces réactives avec React, TypeScript et Tailwind CSS (spécialistes du Glassmorphism).
+
+Backend & Data : Architectures scalables avec Node.js, MySQL, et gestion simplifiée via Prisma, Firebase ou Supabase.
+
+Éducation Tech : Partage de ressources Open Source pour la communauté des développeurs.
+
+💬 Notre Devise
+"Transformer l'imagination en binaire, et le binaire en art."
 
 * 🎥 **YouTube :** Nous partageons nos astuces [HTML/CSS/JS] en format Short et Long.
 * 💻 **Focus :** Performance, Design "Glassmorphism" et Expérience Utilisateur (UX).
