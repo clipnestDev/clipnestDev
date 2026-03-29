@@ -7,8 +7,6 @@
 ---
 
 ### 🚀 À propos de nous
-**📖 Biographie : ClipNestDev
-L'Accroche :
 
 "Où le Design rencontre la Performance. Nous ne nous contentons pas de coder, nous concevons l'avenir du Web, une ligne à la fois."
 
