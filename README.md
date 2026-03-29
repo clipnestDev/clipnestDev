@@ -45,8 +45,6 @@
 | Projet | Techno | Vidéo |
 | :--- | :--- | :--- |
 | **Générateur de Couleurs** | JS Pur | [Regarder 📺](#) |
-| **Dashboard Scolaire** | React / Tailwind | [Regarder 📺](#) |
-| **Effet Glassmorphism** | CSS / JS | [Regarder 📺](#) |
 
 ---
 
