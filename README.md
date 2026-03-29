@@ -39,8 +39,9 @@
 
 ### 📫 Nous contacter / Nous suivre
 * 🌍 **Site Web :** [clipnestdev.tech](https://clipnestdev.tech)
-* 📺 **YouTube :** [Ton Lien YouTube ici]
-* 💬 **Discord / WhatsApp :** [Ton Lien de communauté]
+* 📺 **YouTube :** [clipnestDev(https://bit.ly/clipnestDev]
+* 💬 **Discord / WhatsApp :** [clipnestDev community (https://discord.gg/9AfP9Xwr)]
+* 📺 **Tiktok : ** [clipnestDev(https://www.tiktok.com/@clipnestdev)]
 
 ---
 
